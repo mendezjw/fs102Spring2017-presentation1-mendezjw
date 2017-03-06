@@ -9,7 +9,7 @@ You are welcome to use these slides as inspiration for your own presentation. If
 trouble you to star this repository and then acknowledge it in your own presentation slides?
 
 Are you interested in previewing the presentation without having to download the code and resources from the GitHub
-site? Well, you can! Please view [It's a Trap!](file:///home/m/mendezj/fs102s2017/fs102Spring2017-presentation1-mendezjw/seke2015_panel.html#/).
+site? Well, you can! Please view [It's a Trap!](https://rawgit.com/mendezjw/fs102Spring2017-presentation1-mendezjw/master/seke2015_panel.html).
 
 ## Installation Instructions
 
